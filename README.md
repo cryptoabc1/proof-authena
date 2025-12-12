@@ -1,2 +1,2 @@
 # proof-authena
-Proof for Authena Humanity Score.
+Proof for Authena Humanity Score
